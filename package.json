@@ -16,9 +16,6 @@
     "url": "https://github.com/jinnatul/isPrime/issues"
   },
   "homepage": "https://github.com/jinnatul/isPrime#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0"
